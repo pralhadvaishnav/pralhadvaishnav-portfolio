@@ -77,23 +77,12 @@ Value: yourusername.github.io
 
 ## 🛠️ Customization
 
-### Adding Your Resume PDF
+### ✅ Resume PDF and Profile Photo Included
 
-1. Add your resume PDF file to the static-site folder
-2. Update the resume link in index.html:
-   ```html
-   <a href="your-resume.pdf" class="contact-link" download>
-       Download PDF Resume
-   </a>
-   ```
-
-### Adding Your Profile Photo
-
-1. Add your photo to the static-site folder
-2. Replace the placeholder in index.html:
-   ```html
-   <img src="your-photo.jpg" alt="Pralhad Vaishnav" class="profile-image">
-   ```
+Your actual resume PDF and professional photo are now integrated:
+- **Resume**: `resume.pdf` - Downloads as "Pralhad_Vaishnav_Resume.pdf" 
+- **Profile Photo**: `profile-photo.jpg` - Professional circular image with hover effects
+- Both files are ready for deployment
 
 ### Updating Content
 
